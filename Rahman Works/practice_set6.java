@@ -21,17 +21,11 @@ public class practice_set6{
    Scanner sc = new Scanner(System.in);
    System.out.print("Enter a number:");
    int a = sc.nextInt();
-   for(int i = 0; i<num.length; i++){
-    if(a == num[i]){
-        System.out.println("This no. is present");
-        break;
-    }
-    else{
-        System.out.println("It is not present");
-        
-    }
-
+   for(int element: num){
+    if(num[] = element)
    }
+
+   
    
 
    
