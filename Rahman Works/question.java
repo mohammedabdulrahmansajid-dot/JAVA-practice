@@ -20,7 +20,8 @@ public class question{
 
         if (found) {
             System.out.println("This number is present");
-        } else {
+        } 
+        else {
             System.out.println("This number is not present");
         }
     }
